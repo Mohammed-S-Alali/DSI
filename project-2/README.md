@@ -16,12 +16,6 @@ Here are the two competitions you will be joining:
 Your deliverables are 2 public kernels (one for each competition) on Kaggle per team.
 
 
-## Groups
-- Please fill in the [form](https://forms.gle/FK7x2KZ4oTp1ipmb6) if you already find your group members,
-if not please slack your IAs as soon as possible
-
-
-
 ## Set-up
 
 Here are some starting steps:
@@ -60,8 +54,7 @@ Some advanced usage of Kaggle kernel via Kaggle API: https://github.com/Kaggle/k
 What you have to submit:
  1. you can work on Jupyter note book as we do every day, you should only Install your data,  add your group numbers and the group members’ name inside the Jupyter Notebook.
 2. add a screenshot of your best result from Kaggle.
-3.  Your submission will be the link to the 2 published Kaggle kernels per team, one for each competition(add the link into your notebook too):
-- The form of submission the links [here](https://forms.gle/peEXF5tFvYyx8BPr6)
+3.  Your submission will be the link to the 2 published Kaggle kernels per team, one for each competition(add the link into your notebook too).
 4. Also, you have to pull your project folder which contains the 2 folders of the 2 competitions to the organization as we do usually.*Choose one of your team members to do that.*<br>
  
 ---
