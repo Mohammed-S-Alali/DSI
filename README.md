@@ -27,7 +27,7 @@ By the end of this course, you will be able to:
 * Prototyping 
 * Data Science Case Studies
 
-*Writen by: Rand Al Aaraj*
+*Written by: Rand Al Aaraj*
 
 ## Acknowledgement
 
